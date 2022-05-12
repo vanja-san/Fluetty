@@ -1,8 +1,7 @@
-# Fluetty
-AIMP Icons / Иконки
-
-![preview](https://github.com/vanja-san/Fluetty/blob/20d6661cdb80ff8ef6def342158c40abb114afaa/fluetty.png)
-
-# Installation / Установка
-- ``EN:`` Open AIMP, then "Settings", then "File Association" and click "Plus" at the bottom, then select the archive with icons, click "Open" and "Apply", that's it!
-- ``RU:`` Открыть AIMP, затем  "Настройки", затем "Ассоциация с файлами" и нажать "Плюсик" внизу, следом выбрать архив с иконками, нажать "Открыть" и "Применить", всё!
+<p align="center">
+  <img src="fluetty.png"><br><b>Fluetty / AIMP Icons / Иконки</b>
+</p><br>
+<p align="center">
+  <b>Installation</b>: <br>Open AIMP, then "<i>Settings</i>", then "<i>File Association</i>" and click "<i>Plus</i>" at the bottom, <br>then select the archive with icons, click "<i>Open</i>" and "<i>Apply</i>", that's it! <br><br>
+  <b>Установка</b>: <br>Открыть AIMP, затем  "<i>Настройки</i>", затем "<i>Ассоциация с файлами</i>" и нажать "<i>Плюсик</i>" внизу, <br>следом выбрать архив с иконками, нажать "<i>Открыть</i>" и "<i>Применить</i>", всё!
+</p>
